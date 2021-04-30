@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi I'm Hwan-hee.
+- 🔭 I major in computer engineering at Kyunghee University.
+- 📫 How to reach me: whanhee97@gmail.com
+
 
 <!--
 **whanhee97/whanhee97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
